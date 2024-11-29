@@ -1,0 +1,1 @@
+//jb bhi hm generated token ko postman me send krenge to hmko key me authorization likhnna pdega and uski value me hm bearer "'jo bhi tkoen he
